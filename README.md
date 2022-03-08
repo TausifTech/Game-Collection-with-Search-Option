@@ -6,7 +6,7 @@ This application retrieves JSON data(a certain collection) from online and shows
   <img src="https://user-images.githubusercontent.com/71214537/157215403-8dfa2807-d05f-4899-8ea2-49c1880cbb62.jpg" width="300" height="600" />
 </p>
 
-## has search option
+## Has Search Option
 
 This error-free application also contains "Search Option".
 

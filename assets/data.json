@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Ghostrunner",
+    "image": "assets/ghost.png"
+  },
+  {
+    "id": 2,
+    "name": "Little Nightmares",
+    "image": "assets/littlen.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Far Cry",
+    "image": "assets/farc.png"
+  },
+  {
+    "id": 4,
+    "name": "Need for Speed",
+    "image": "assets/nfs.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Spiderman",
+    "image": "assets/spiderman.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Assasisn's Creed",
+    "image": "assets/ac.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Final Fantasy",
+    "image": "assets/ff15.gif"
+  },
+  {
+    "id": 8,
+    "name": "Hitman",
+    "image": "assets/hitman.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "FIFA",
+    "image": "assets/fifa.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Call of Duty",
+    "image": "assets/cod.jpg"
+  }
+]
